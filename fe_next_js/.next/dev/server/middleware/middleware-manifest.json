@@ -1,0 +1,31 @@
+{
+  "sorted_middleware": [],
+  "middleware": {
+    "/": {
+      "files": [
+        "server/edge/chunks/new_journey_2025_CompanyProfile_fe_next_js_8af23bed._.js",
+        "server/edge/chunks/[root-of-the-server]__661d776b._.js",
+        "server/edge/chunks/turbopack-new_journey_2025_CompanyProfile_fe_next_js_edge-wrapper_a4fac658.js"
+      ],
+      "name": "middleware",
+      "page": "/",
+      "matchers": [
+        {
+          "regexp": "/:nextData(_next/data/[^/]{1,})?/admin/:path*{(\\\\.json)}?",
+          "originalSource": "/admin/:path*"
+        }
+      ],
+      "wasm": [],
+      "assets": [],
+      "env": {
+        "__NEXT_BUILD_ID": "development",
+        "NEXT_SERVER_ACTIONS_ENCRYPTION_KEY": "qvQlyuTorfUSfsm65qcCrhgpmT8WCswSM/4QOLmIqa8=",
+        "__NEXT_PREVIEW_MODE_ID": "77a25b0c3cff7031b5d1b1d71c5baa75",
+        "__NEXT_PREVIEW_MODE_ENCRYPTION_KEY": "f6b28e056a793ab6f1d52b0c6210be1fbc4e6ff1fa57687fa1144c400e699e24",
+        "__NEXT_PREVIEW_MODE_SIGNING_KEY": "f8c7da396d8fa0265de33d9019b7ff732fece61c272ccc57992cb3713a21f08c"
+      }
+    }
+  },
+  "instrumentation": null,
+  "functions": {}
+}

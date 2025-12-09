@@ -1,0 +1,15 @@
+{
+  "/admin/article/[id]/page": "app/admin/article/[id]/page.js",
+  "/admin/article/new/page": "app/admin/article/new/page.js",
+  "/admin/articles/page": "app/admin/articles/page.js",
+  "/admin/dashboard/page": "app/admin/dashboard/page.js",
+  "/admin/login/page": "app/admin/login/page.js",
+  "/admin/project/new/page": "app/admin/project/new/page.js",
+  "/admin/projects/page": "app/admin/projects/page.js",
+  "/admin/reset-request/page": "app/admin/reset-request/page.js",
+  "/articles/[id]/page": "app/articles/[id]/page.js",
+  "/articles/page": "app/articles/page.js",
+  "/page": "app/page.js",
+  "/projects/[id]/page": "app/projects/[id]/page.js",
+  "/projects/page": "app/projects/page.js"
+}
